@@ -7,7 +7,7 @@ public class Main {
 
         // Create teachers
         Teacher t1 = new Teacher("Mahmut Hoca", "90550000000", "TRH");
-        Teacher t2 = new Teacher("Fatma Ayşe", "90550000001", "FZK");
+        Teacher t2 = new Teacher("Badi EKREM", "90550000001", "FZK");
         Teacher t3 = new Teacher("Kül Yutmaz", "90550000002", "BIO");
 
         // Create courses
